@@ -35,7 +35,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 </p>
 <h3 align="center">
 
-![logo](https://te.legra.ph/file/3fbf148973e18ecc1163b.mp4)
+![logo](https://te.legra.ph/file/019eed5ead853a440b6ea.jpg)
 
 ━━━━━━━━━━━━
 
