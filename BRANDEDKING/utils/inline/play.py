@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="❤️‍🔥 𝐊𝐢𝐧𝐠👑", url="https://t.me/feel_the_music_beat",
             ),
             InlineKeyboardButton(
-                text="𝑺𝒖𝒑𝒑𝒐𝒓𝒕💌𝑪𝒉𝒂𝒕", url="https://t.me/+VnhB4kDBEgUyY2Y1",
+                text="𝑺𝒖𝒑𝒑𝒐𝒓𝒕💌𝑪𝒉𝒂𝒕", url="https://t.me/+BX_LwS90SUdkYmE1",
             ),
         ],
         [
@@ -101,7 +101,7 @@ def stream_markup(_, chat_id):
                 text="❤️‍🔥 𝐊𝐢𝐧𝐠👑", url="https://t.me/feel_the_music_beat",
             ),
             InlineKeyboardButton(
-                text="𝑺𝒖𝒑𝒑𝒐𝒓𝒕💌𝑪𝒉𝒂𝒕", url="https://t.me/+VnhB4kDBEgUyY2Y1",
+                text="𝑺𝒖𝒑𝒑𝒐𝒓𝒕💌𝑪𝒉𝒂𝒕", url="https://t.me/+BX_LwS90SUdkYmE1",
             ),
         ],
         [
